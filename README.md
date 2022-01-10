@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OleMortensen8
-- 👀 I’m interested in Data, mmusic playing
+- 👀 I’m interested in Data, music playing
 - 🌱 I’m currently learning Server configuration
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything around php or python.
 - 📫 How to reach me olevsmortensen@dbc5radio.dk
 
 <!---
