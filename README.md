@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data, playing Instruments
 - 🌱 I’m currently learning Servers and ASPDotNet
 - 💞️ I’m looking to collaborate on anything around php, ASPDotNet or Python.
-- 📫 How to reach me olevsmortensen@dbc5radio.dk
+- 📫 How to reach me dev@dbc5radio.dk
 
 <!---
 OleMortensen8/OleMortensen8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
