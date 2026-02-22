@@ -19,8 +19,8 @@ You can reach me via email at dev@dbc5radio.dk.
 
 :link: Links
 
-<a href="https://norrebro.space/@setuplet"><img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%25236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white&color=%236364FF">
-<a href="https://blog.dbc5radio.dk"><img alt="Blog" src="https://img.shields.io/badge/blog.dbc5radio.dk-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white">
+<a href="https://norrebro.space/@setuplet"><img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%25236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white&color=%236364FF"></a>
+<a href="https://blog.dbc5radio.dk"><img alt="Blog" src="https://img.shields.io/badge/blog.dbc5radio.dk-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white"></a>
 
 :bar_chart: Stats
 
