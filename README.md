@@ -36,7 +36,7 @@ You can reach me via email at dev@dbc5radio.dk.
 <!-- BLOG-POST-LIST:END -->  :sparkles: Support
 
 If you appreciate my work, consider supporting me! :coffee:
-<a href="buymeacoffee.com/devxk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee"></a>
+<a href="https://buymeacoffee.com/devxk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee"></a>
 
 <!---
 OleMortensen8/OleMortensen8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
